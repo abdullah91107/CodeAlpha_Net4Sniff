@@ -88,6 +88,7 @@ The file will be in the ```Logs```
 
 # Author
 This project is made for CodeAlpha by Abdullah M. Hussein
+
 I hope this comprehensive README.md file proves helpful!
 
 
