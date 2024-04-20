@@ -57,7 +57,7 @@ You need to install some libraries before using the tool like:
 
 To Install Other Libraries:
 ```
-pip3 install scapy colorama pyfiglet termcolor -y
+pip3 install scapy colorama pyfiglet termcolor
 ```
 
 
