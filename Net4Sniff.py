@@ -68,7 +68,7 @@ try:
         print(f"{colored('Destination MAC:   ', 'blue')}{colored(dst_mac, 'yellow')}")
         print(f"{colored('Packet Size:       ', 'blue')}{colored(size, 'yellow')}")
         print(f"{colored('Source Port:       ', 'blue')}{colored(src_port, 'yellow')}")
-        print(f"{colored('Source Port:       ', 'blue')}{colored(dst_port, 'yellow')}")
+        print(f"{colored('Destination Port:       ', 'blue')}{colored(dst_port, 'yellow')}")
         print(f"")
         print(colored(separator_hash, "cyan"))
         print(f"")
